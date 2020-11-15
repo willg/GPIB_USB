@@ -1,5 +1,5 @@
 Drill report for adapter-panel.kicad_pcb
-Created on Sun Nov 15 14:17:37 2020
+Created on Sun Nov 15 14:28:19 2020
 
 Copper Layer Stackup:
     =============================================================
@@ -20,5 +20,6 @@ Drill file 'adapter-panel.drl' contains
 Not plated through holes are merged with plated holes
     unplated through holes:
     =============================================================
+    T4  0.50mm  0.020"  (72 holes)
 
-    Total unplated holes count 0
+    Total unplated holes count 72
